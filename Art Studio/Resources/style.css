@@ -1,38 +1,15 @@
+.price{color: blue;
+font-family: Helvetica;
+font-weight: bold:}
 
-
-
-p{
-  font-family: helvetica;
-}
-h2, h3, h1{
-  font-weight: bold;
-  font-family: helvetica;
-}
-
-h1{
-  color: khaki;
-  font-size: 100px;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
-  text-align: center;
-}
-
-.price{
-
+.header{font-family: Helvetica;
+font-size: 100px;
 font-weight: bold;
-color: blue;
-}
+color: khaki;
+text-align: center;
+background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);}
 
-.title h2{
-  font-size: 32px;
-  color: white;
-}
-
-#brushes{
-  background-color: mediumspringgreen;
-}
-#frames{
-  background-color: lightcoral;
-}
-#paint{
-  background-color: skyblue;
-}
+h2 {font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white}
